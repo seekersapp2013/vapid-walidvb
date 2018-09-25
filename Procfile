@@ -1,1 +1,1 @@
-web: vapid start
+web: pwd && vapid start .
